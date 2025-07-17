@@ -3250,7 +3250,7 @@ video {
     font-weight: bold;
     font-size: 14px;
 }
-.box {
+/*.box {
     animation: bounce 1500ms alternate infinite cubic-bezier(.8, .65, .6, 1);
     border-bottom-right-radius: 25%;
     border-bottom-left-radius: 40%;
@@ -3282,4 +3282,4 @@ video {
     .box {
         display: none;
     }
-}
+}*/
