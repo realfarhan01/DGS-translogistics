@@ -3250,6 +3250,25 @@ video {
     font-weight: bold;
     font-size: 14px;
 }
+.team-content-ambassador {
+    background-color: var(--white-color);
+    box-shadow: var(--box-shadow);
+    margin-top: -80px;
+    padding: 5px;
+    position: relative;
+    z-index: 2;
+}
+h4.position-ambassador {
+    background-color: var(--primary-color);
+    color: var(--white-color);
+    display: inline-block;
+    line-height: 1;
+    padding: 10px;
+}
+.team-content-ambassador h3 {
+    font-size: 19px;
+    font-weight: 700;
+}
 /*.box {
     animation: bounce 1500ms alternate infinite cubic-bezier(.8, .65, .6, 1);
     border-bottom-right-radius: 25%;
