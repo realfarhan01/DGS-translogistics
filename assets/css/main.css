@@ -1840,7 +1840,7 @@
 ====================================================*/
 .team-thumb {
     width: 100%;
-    height: 380px;
+    height: 280px;
     position: relative;
     overflow: hidden;
 }
@@ -1854,11 +1854,12 @@
     left: 0;
     top: 0;
     transition: all .3s linear;
-    border-radius: 25px;
+    border-radius: 15%;
+    border: 2px solid #00afef;
 }
 
 .team-item:hover .team-thumb img {
-    transform: scale(1.02);
+    /*transform: scale(1.02);*/
 }
 
 .team-social {
