@@ -3271,6 +3271,15 @@ h4.position-ambassador {
     font-size: 19px;
     font-weight: 700;
 }
+h2.team-heading {
+    background: #009fdf;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 10px 0px 15px 0px;
+    text-transform: uppercase;
+}
 /*.box {
     animation: bounce 1500ms alternate infinite cubic-bezier(.8, .65, .6, 1);
     border-bottom-right-radius: 25%;
